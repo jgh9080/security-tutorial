@@ -1,3 +1,6 @@
+# Hw1 - 실제 사례를 찾아보자
+
+
 # Melissa Virus
 
 **1999년 3월 26일** 이메일 클라이언트 Outlook 97, 98로 부터 대량의 메일이 전송되었다.
@@ -128,6 +131,10 @@
 'I'm outta here."
 'End Sub
 ```
+위의 코드는 전부 주석 처리 해 놓았다.
+아무래도 위의 매크로 코드는 VScode에서 실제로 작동하는 것 같다. 
+~~주석처리를 안하니까 HW-1.md 파일을 자꾸 백신이 지웠다...~~ 
+
 ### [Source Code](http://www.rohitab.com/discuss/topic/994-melissa-source-code/)
 ---
 # 참조
