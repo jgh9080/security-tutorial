@@ -7,10 +7,12 @@ crackme 0x03 : 338724
 
 
 1. crackme0x04 을 풀고 write-up 을 쓰세요. 
+
 ![1](1.png)
 
  crackme0x04에서는 main 함수에서는 password만 입력받고 그림과 같이 check함수를 호출하여 password를 검사한다.
  87이라는 숫자를 입력하였다.
+ 
 ![2](2.png)
 
 check 함수 내부에서는 입력받은 문자열의 글자 개수를 strlen이라는 함수를 이용하여 counting하고 그 수에 맞게 반복한다.
